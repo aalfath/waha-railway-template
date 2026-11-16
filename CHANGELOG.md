@@ -1,6 +1,10 @@
 # Changelog
 
 Each entry is one version of this template. Breaking changes are listed first.
+## 2026.10.1 README update (2026-11-16)
+
+- README: add the Deploy on Railway button for the published template `waha-1`. No change to the deployed service.
+
 
 ## 2026.10.1 (2026-11-16)
 

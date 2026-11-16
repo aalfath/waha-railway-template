@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/waha-1?utm_medium=integration&utm_source=button&utm_campaign=waha)
+
 # WAHA on Railway
 
 One-click Railway template for [WAHA](https://github.com/devlikeapro/waha) (WhatsApp HTTP API), the self-hosted REST API for WhatsApp. This repo holds the Dockerfile Railway builds; it pins the official image and adds Railway defaults.
